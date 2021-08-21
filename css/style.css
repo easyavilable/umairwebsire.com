@@ -1,0 +1,109 @@
+     *
+	 {
+		 padding:0px;
+		 margin:0px;
+	 }
+	 h1
+		{
+		 color:blue;
+		 }
+		 p
+		 {
+		 color:green;
+		 fount-size=20px;
+		 }
+		 ol
+		 {
+	  color:blue;
+		  }
+		  th
+		  {
+		  color:red;
+		  }
+		  td
+		  {
+		  color:blue;
+		  }
+         .main
+		 {
+			 width:900px;
+			 height:900px;
+			 background-color:blue;
+			 margin:auto;
+		 }
+		 .header
+		 {
+			 width:800px;
+			 height:150px;
+			 background-color:red;
+			 padding-left:50px;
+			 padding-right:50px;
+		 }
+		 .menu
+		 {
+		    width:900px;
+            height:50px;
+             background-color:orange;
+         }
+        .leftbar
+		{
+             width:600px;
+			 height:600px;
+			 background-color:brown;
+            float:left;
+	     }
+        .rightbar
+		{
+             width:300px;
+			 height:600px;
+			 background-color:pink;
+            float:right;
+		}
+        .footer
+		{
+             width:900px;
+			 height:150px;
+			 background-color:yellow;
+            clear:both;
+		}
+	     .header1
+		 { 
+		 width:100px;
+		 height:100px;
+		 float:right;
+		 }
+		.menu ul 
+		{
+			list-style:none;
+		}
+		.menu a 
+		{
+			text-decoration:none;
+			color:yellow;
+		}
+		.menu li 
+		{
+			float:left;
+			padding-left:50px;
+			padding-top:20px;
+		}
+		.menu a:hover
+		{
+			color:black;
+		}
+		.rightbar p
+		{ 
+		text-decoration:overline;
+		color:red;
+		text-transform:uppercase;
+		padding-left:50px;
+		}
+		.rightbar h1
+		{
+			letter-spacing:20px;
+			text-shadow:3px 2px red;
+			padding-left:70px;
+		}
+		
+		
+		

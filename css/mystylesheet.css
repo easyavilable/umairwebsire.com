@@ -1,0 +1,187 @@
+*
+{
+	padding:0px;
+	margin:0px;
+}
+
+
+
+
+
+.main
+{
+	width:900px;
+	background-color:green;
+	height:900px;
+	margin:auto;
+	}
+	.header
+	{
+	width:800px;
+	height:150px;
+	background-color:#CCC;
+	background-image:url(../images/ghjkj.jpg);
+	padding-right:50px;
+	padding-left:50px;
+	}
+	.menu
+	{
+	width:900px;
+	height:50px;
+	background-color:black;
+	}
+	.rightbar
+	{
+	width:500px;
+	height:550px;
+	background-color:#CC9;
+	float:left;	
+		
+	}
+	.leftbar
+	{
+	width:400px;
+	height:550px;
+	background-color:#CCF;
+	float:right;
+	}
+	.footer
+	{
+	width:900px;
+	height:150px;
+	background-color:#99C;
+	background-image:url(../images/images.jpg);
+	clear:both;
+	margin:auto;
+	}
+	h1
+	{
+		color:#FF6;
+		font-style:italic;
+		text-transform:capitalize;
+		font-size:60px;
+		padding-right:200px;
+	    padding-left:200px;
+		padding-top:25px;		
+	}
+	h2
+	{
+		float:left;
+		margin:-20px;
+		padding-right:30px;
+	}
+	.menu ul
+	{
+		list-style:none;
+	}
+	.menu li
+	{
+		color:white;
+		float:left;
+		padding-left:50px;
+		padding-top:15px;
+	}
+	.menu li a:hover
+	{
+		color:#FF6;
+	}
+	.menu2 li
+	{
+		float:right;
+		padding-right:10px;
+	}
+	a
+	{ color:#FFF;
+	}
+	
+	h3
+	{
+		color:black;
+		font-size:30px;
+		padding-left:10px;
+	}
+	h5
+	{
+		font-size:30px;
+		padding-left:110px;
+		color:#F00;
+	}
+	p1
+	{
+		font-size:20px;
+		color:#00F;
+		margin-left:0px;
+		margin-right:0px;
+		
+	}
+	pa
+	{
+		font-size:20px;
+		color:#FFF;
+	}
+	p
+	{
+		margin-left:20px;
+		margin-right:20px;	
+	}
+	j4
+	{
+		float:right;
+		padding-right:110px;
+		color:#FFF;
+	}
+	p3
+	{
+		float:right;
+		padding-right:80px;
+		color:#FFF;
+	}
+	j6
+	{
+		float:right;
+		padding-right:125px;
+		color:#FFF;
+	}
+	p5
+	{
+		float:right;
+		padding-right:5px;
+		color:#FFF;
+	}
+	j8
+	{
+		float:right;
+		padding-right:15px;
+		color:#FFF;
+	}
+	j10
+	{
+		float:right;
+		padding-right:5px;
+		color:#FFF;
+	}
+	j11
+	{
+		color:#333;
+		font-size:20px;
+		font-weight:bold;
+	}
+	j12
+	{
+		padding-left:150px;
+		font-size:40px;
+		font-weight:bold;
+		position: absolute;
+		margin-top:5%;
+		color:#CCC;
+	}
+	p9{
+		float:right;
+		color:#CCC;	
+	}
+	p8
+	{
+		color:#CCC;
+	}
+	
+	
